@@ -1,3 +1,15 @@
+/*
+Check Wheather given number is prime or not. The Number is Prime print "PRIME" not an prime print "NOT PRIME"
+
+Input Format
+29
+
+Constraints
+Zero
+
+Output Format
+PRIME
+*/
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
